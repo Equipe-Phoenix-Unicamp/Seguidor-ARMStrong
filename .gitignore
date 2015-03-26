@@ -22,3 +22,5 @@ debug
 /external/mbed/.gitignore
 /external/mbed/.gitattributes
 /external/mbed/workspace_tools/
+/samples
+/notes
